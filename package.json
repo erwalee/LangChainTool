@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@langchain/anthropic": "^1.5.1",
+    "@langchain/core": "^1.2.1",
+    "@langchain/openai": "^1.5.2",
+    "@langchain/openrouter": "^0.4.2",
+    "dotenv": "^17.4.2",
+    "langchain": "^1.5.1"
+  }
+}
